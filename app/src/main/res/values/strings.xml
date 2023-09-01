@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppleMarket</string>
+    <string name="manner_temperature"><u>매너온도</u></string>
+    <string name="btn_chat">채팅하기</string>
+</resources>
